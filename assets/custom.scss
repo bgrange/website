@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-@font-face {
+/*@font-face {
   font-family: "Computer Modern";
   src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
 }
@@ -23,8 +23,10 @@
   font-weight: bold;
   font-style: italic, oblique;
 }
+*/
+
 
 body {
-  font-family: "Computer Modern", sans-serif;
+  font-family: "Computer Modern Bright", sans-serif;
   //font-family: "Andale Mono", AndaleMono, monospace;
 }
